@@ -1,4 +1,4 @@
-hello
-
-
-modified
+使用 git status
+     git add . 
+     git commit
+     git push上傳
